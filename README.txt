@@ -4,7 +4,7 @@ Validation of Exosomal Features		Cross-validation with other models of selected 
 DGE Exosomes				DGE analysis of ExoRbase Exosomes
 Validation Top DGE Exosomes		Machine Learning prediction with cross validation of top DGE exosomal features
 TCGA DGE analysis TPM			DGE analysis of TPM from TCGA
-Exosomal Features Analysing TCGA Tissue data  Using ML selected features from ExoRbase to predict TCGA dataset
+Exosomal Features Analysing TCGA Tissue data			Using ML selected features from ExoRbase to predict TCGA dataset
 Feature Pubmed Search			Searching exosomal features in Pubmed
 HCC_circRNAs 			Raw data (circRNA expression profile of HCC patients) downloaded from http://www.exorbase.org/
 HCC_longRNAs 			Raw data (LncRNAs and mRNAs expression profile of HCC patients) downloaded from http://www.exorbase.org/
