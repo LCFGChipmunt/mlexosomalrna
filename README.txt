@@ -6,8 +6,4 @@ Validation Top DGE Exosomes		Machine Learning prediction with cross validation o
 TCGA DGE analysis TPM			DGE analysis of TPM from TCGA
 Exosomal Features_TCGA Tissue data  	Using ML selected features from ExoRbase to predict TCGA dataset
 Feature Pubmed Search			Searching exosomal features in Pubmed
-HCC_circRNAs 			   	Raw circRNA expression profile of HCC patients*
-HCC_longRNAs 			   	Raw LncRNAs and mRNAs expression profile of HCC patients*
-Healthy_circRNAs 			Raw circRNA expression profile of Healthy individuals*
-Healthy_longRNAs 			Raw LncRNAs and mRNAs expression profile of Healthy individuals* 
-*All raw data files are downloaded from http://www.exorbase.org/
+*All raw data files (File names: "HCC_circRNAs.txt", "HCC_longRNAs.txt", "Healthy_circRNAs.txt", "Healthy_longRNAs.txt") are downloaded from http://www.exorbase.org/exoRBaseV2/download/toIndex
